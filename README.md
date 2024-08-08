@@ -39,7 +39,7 @@ The collected data can be found [here](https://drive.google.com/drive/folders/1p
 
 **NOTE**: We only collect publicly available data from Steam. Our collected data does not contain any data associated with Steam users, except their `steam_id`.
 
-## Our teams
+## Our team
 | ID | Name | Github |
 | -- | ---- | ------ |
 | 21520411 | Mai Anh Quân | https://github.com/maqnitude |
